@@ -69,3 +69,4 @@ public java.util.List<Book> getBookList() throws android.os.RemoteException {
 参考资料:
 http://www.cnblogs.com/punkisnotdead/p/5163464.html
 http://www.jianshu.com/p/e642db926c50
+http://weishu.me/2016/01/12/binder-index-for-newer
